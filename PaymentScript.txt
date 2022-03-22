@@ -1,2 +1,3 @@
 Payment Script Code
 Adding code of COD
+Adding code of CC and DC
